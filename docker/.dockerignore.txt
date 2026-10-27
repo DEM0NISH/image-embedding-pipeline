@@ -1,0 +1,12 @@
+**/__pycache__
+**/*.pyc
+**/*.pyo
+.git
+.gitignore
+terraform/
+mlflow/
+*.md
+tests/
+*.egg-info
+.pytest_cache
+.venv
